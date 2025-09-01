@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://wakatime.com/@018d36c1-341c-45d8-944e-95ce4b6bce0b"><img src="https://wakatime.com/badge/user/018d36c1-341c-45d8-944e-95ce4b6bce0b.svg" alt="Total time coded since Jan 23 2024" /></a>
+  
   <img src="https://komarev.com/ghpvc/?username=Bhupesh0009&label=Profile%20views&color=FF5733&style=flat-square" alt="Profile views" />
 </p>
 
@@ -16,9 +16,9 @@
 - 🔭 I'm currently working on improving my skills and building meaningful projects
 - 🌱 I'm learning the **MERN** stack (MongoDB, Express.js, React, Node.js)
 - 💬 Ask me about **Node.js**, **JavaScript**, and **Java**
-- ⚡ I love **Chess**, **Coffee**, and **Football**
+- ⚡ I love **Chess**, **Coffee**, and **Badminton**
 - 🎯 Goal: Become a proficient Full Stack Developer
-- 📫 How to reach me: akshatgupta0043@gmail.com
+- 📫 How to reach me: krbhupesh4444@gmail.com
 
 <br>
 
